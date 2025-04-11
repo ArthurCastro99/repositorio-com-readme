@@ -1,21 +1,18 @@
-# Projeto do README
-um projeto de teste com um arquivo readme 🎈
+# Praticando README
+um projeto de teste com um arquivo readme 
 
-[<img src="./tela.gif" alt="Um gif do charizard X">](https://sg.portal-pokemon.com/play/pokedex/0006_1)
+[<img src="./readme.gif" alt="imagem dev quest">](https://github.com/ArthurCastro99)
 
-## Tecnologia utilizadas
+## Tecnologias em andamento
 - HTML 
 - CSS
 - JS 
 
-## como utilizar
+## FEEDBACK
 
 1 - Clone do projeto
 ```
 git clone <url>
 ```
 
-2 - Acesse a pasta das habilidades
-```
-cd repositorio-com-readme
-```
+2 - Olhe as pastas e edit oque você achar melhor '-'
